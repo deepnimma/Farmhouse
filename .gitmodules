@@ -1,3 +1,6 @@
 [submodule "deepnimma.com"]
 	path = deepnimma.com
 	url = git@github.com:deepnimma/deepnimma.com.git
+[submodule "barn"]
+	path = barn
+	url = git@github.com:deepnimma/TheBarn.git
