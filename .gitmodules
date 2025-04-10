@@ -4,3 +4,6 @@
 [submodule "barn"]
 	path = barn
 	url = git@github.com:deepnimma/TheBarn.git
+[submodule "store"]
+	path = store
+	url = git@github.com:deepnimma/FarmStore.git
