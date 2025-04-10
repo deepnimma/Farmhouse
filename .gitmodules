@@ -1,0 +1,3 @@
+[submodule "deepnimma.com"]
+	path = deepnimma.com
+	url = git@github.com:deepnimma/deepnimma.com.git
